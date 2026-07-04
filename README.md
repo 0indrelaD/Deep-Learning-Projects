@@ -321,7 +321,7 @@ This project is licensed under the MIT License. See the `LICENSE` file (if added
 
 ## 👤 Author
 
-**Cinderella Lee**  
+##Dyuti Oindrela## 
 Hong Kong, HK  
 GitHub: [@<your-username>](https://github.com/<your-username>)
 
